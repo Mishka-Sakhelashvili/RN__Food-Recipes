@@ -2,9 +2,9 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570795.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570803.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570821.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/IMG/Screenshot_1613573687.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/IMG/Screenshot_1613573712.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/IMG/Screenshot_1613573747.png"/>
 </p>
 
 
