@@ -2,11 +2,10 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/IMG/Screenshot_1613573687.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/IMG/Screenshot_1613573712.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/IMG/Screenshot_1613573747.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Food-Recipes/blob/master/IMG/Screenshot_1613573687.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Food-Recipes/blob/master/IMG/Screenshot_1613573712.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Food-Recipes/blob/master/IMG/Screenshot_1613573747.png"/>
 </p>
-
 
 <hr />
 <h2><i>Used Technologies: </i></h2>
